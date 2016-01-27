@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Wild Circus</title>
+  <style>
+   body {
+background: url("http://culturebox.francetvinfo.fr/sites/default/files/assets/images/etaix.jpg");
+background-position: ;
+background-size: small;
+}
+h1 { 
+ 	font-size: 50px;
+ font-family: fantasy;
+text-align: center;
+color: white;
+} 
+p { text-align: left;
+	font-size: 30px;
+	font-family: Impact, Charcoal, sans-serif;
+    color: rgba(95, 102, 255, 0.7);
+}
+</style>
+    </head>
+
+    <body>
+     <h1> Bobby The Clown </h1>
+   <p> If you want laugh Bobby will be your best briend </p>
+   <p> Bobby has a loud laugh and long shoes , he have a lot of thing in his hat</p>
+   <p> It's a real clown with great jokes and of course a big red nose !<p>
+    </body>
+</html>
