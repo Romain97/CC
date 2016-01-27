@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Wild Circus</title>
+<style>
+body { 
+background: url("http://www.cirque-eloize.com/wp-content/uploads/2015/05/SEC_4013.jpeg");
+background-position: top;
+background-size: small;  
+color: white;
+ }
+ h1 { 
+ 	font-size: 50px;
+ font-family: fantasy;
+text-align: center;
+}
+h2 { 
+text-align: left;
+font-size: 35px;
+font-family: monospace;
+  }
+p { 
+	text-align: left;
+	font-size: 30px;
+	font-family: helvetica;
+}
+   </style>
+    </head>
+    <body>
+    <h1> Wild Circus Company </h1>
+    <h2> Performance list : </h2>
+    <p> <a href="page2.html">- The Elephant Show</a> </p>
+    <p> <a href="page3.html"> - Bobby The Clown</a> </p>
+    <p> <a href="page4.html"> - Mysterious Magician</a> <p> 
+    </body>
+</html>
+
